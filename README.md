@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Kindi Bayhaqi</h1>
 <h3 align="center">A passionate Backend Developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Freelance Web Developer**
+- 🔭 I’m currently working on **PT Trasindo Data Perkasa as FullStack Web Developer**
 
 - 🌱 I’m currently learning **Vue JS & Java Script**
 
