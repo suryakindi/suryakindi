@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PT Trasindo Data Perkasa as FullStack Web Developer**
 
-- 🌱 I’m currently learning **Vue JS & Java Script**
+- 🌱 I’m currently working with **Angular JS & PHP Laravel**
 
 - 👨‍💻 All of my projects are available at [https://suryakindi.vercel.app](https://suryakindi.vercel.app)
 
