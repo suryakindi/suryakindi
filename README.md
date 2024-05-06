@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Surya Kindi Bayhaqi</h1>
-<h3 align="center">A FullStack Developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **PT Transindo Data Perkasa as FullStack Web Developer**
 
