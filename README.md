@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surya Kindi Bayhaqi</h1>
 
-- 🔭 I’m currently working on **PT Transindo Data Perkasa as FullStack Web Developer**
+- 🔭 I’m currently working on **PT Transindo Data Perkasa as FullStack Web Developer ( Handle RSCM Jakarta & RS Sarkies Aisyiyah Kudus )**
 
 - 🌱 I’m currently working with **Angular JS & PHP Laravel**
 
