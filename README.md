@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Surya Kindi Bayhaqi</h1>
 
-- 🔭 I’m currently working on **PT Transindo Data Perkasa as FullStack Web Developer**
+- 🔭 I’m currently working on **RSUD Subang as Senior Software Engineer**
 
-- 🌱 I’m currently working with **Angular JS, VUE JS, React & PHP Laravel**
+- 🌱 I’m currently working with **Angular JS, VUE JS, React & PHP Laravel, Ubuntu, AWS**
 
 - 👨‍💻 All of my projects are available at [https://suryakindi.vercel.app](https://suryakindi.vercel.app)
 
